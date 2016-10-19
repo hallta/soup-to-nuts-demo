@@ -1,3 +1,6 @@
+# VIM Files
+*.sw[a-z]
+
 # Logs
 logs
 *.log
